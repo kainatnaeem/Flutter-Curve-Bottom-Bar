@@ -1,4 +1,7 @@
-# flutterfloatingbottombarbyktech
+# Flutter Curve Bottom Navigation Bar
+
+https://github.com/kainatnaeem/Flutter-Curve-Bottom-Bar/assets/54583829/ad9e1e9b-5b52-46fc-81e9-8ba7da79f8ec
+
 
 A new Flutter project.
 
